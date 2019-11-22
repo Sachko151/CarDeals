@@ -1,0 +1,58 @@
+body {
+    background-color: #ededed;
+}
+
+.delete-user-form {
+    width: 30%;
+    margin: auto;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #777a61ad;
+    margin-top: 3%;
+    padding: 1%;
+    margin-bottom: 5%;
+
+}
+
+.delete-user-form label {
+    margin-bottom: 12px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+.delete-user-form input[type="text"] {
+    margin-bottom: 12px;
+    display: block;
+    border-radius: 8px;
+    width: 90%;
+    height: 30px;
+    color: black;
+    margin-left: 4%;
+}
+
+.delete-button {
+    margin-top: 12px;
+    border-radius: 8px;
+    border-color: #d10000;
+    background-color: #d10000;
+    color: whitesmoke;
+    font-size: 24px;
+    height: 50px;
+    float: right;
+    width: 70%;
+    margin-right: 15%;
+}
+
+h1{
+    text-align: center;
+    margin-top: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    text-align: center;
+    margin-top: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+}

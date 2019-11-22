@@ -1,0 +1,124 @@
+#main {
+    border: 5px solid #8AA3F4;
+    position: absolute;
+    width: 50%;
+    left: 25%;
+    top: 10%;
+}
+
+h1 {
+    position: relative;
+    left: 21%;
+    top: -2%;
+    font-size: 3.5em;
+    font-family: 'Fascinate Inline', cursive;
+}
+
+input {
+    position: absolute;
+    width: 40%;
+    margin: 4px;
+    left: 26.5%;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#submit {
+    position: absolute;
+    left: 70%;
+    top: 80%;
+    height: 15%;
+    width: 25%;
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 3rem;
+    background: #df180e;
+    border-radius: 10%;
+}
+
+#brandP {
+    position: relative;
+    left: 8px;
+}
+
+#titleP {
+    position: relative;
+    left: 8px;
+}
+
+#pictureP {
+    position: relative;
+    left: 8px;
+}
+
+#euroP {
+    position: relative;
+    left: 8px;
+}
+
+#EPriceP {
+    position: relative;
+    left: 8px;
+}
+
+#categoryP {
+    position: relative;
+    left: 8px;
+}
+
+#dateP {
+    position: relative;
+    left: 8px;
+}
+
+#powerP {
+    position: relative;
+    left: 8px;
+}
+
+#eurostandardP {
+    position: relative;
+    left: 8px;
+}
+
+#mileageP {
+    position: relative;
+    left: 8px;
+}
+
+#colorP {
+    position: relative;
+    left: 8px;
+}
+
+#modelP {
+    position: relative;
+    left: 8px;
+}
+
+#regionP {
+    position: relative;
+    left: 8px;
+}
+
+#transmissionP {
+    position: relative;
+    left: 8px;
+}
+
+#enigneP {
+    position: relative;
+    left: 8px;
+}
+
+#transmission {
+    position: relative;
+    left: 14.7%;
+}
+
+#engine {
+    position: relative;
+    left: 6.9%;
+}

@@ -1,0 +1,14 @@
+#main {
+    text-align: center;
+    border: 5px solid #1670a1;
+    position: absolute;
+    width: 50%;
+    left: 25%;
+    top: 10%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+h1 {
+    font-size: 3.5em;
+    font-family: 'Fascinate Inline', cursive;
+}

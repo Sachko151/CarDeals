@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3aa0e8;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 21px 16px;
+    text-decoration: none;
+    font-family: 'Source Code Pro', monospace;
+    text-transform: uppercase;
+}
+
+li a:hover:not(.active) {
+    background-color: #1670a1;
+}
+
+.active {
+    background-color: #1670a1;
+}
+.car-logo{
+    margin-left: 5%;
+    margin-top: 2%;
+    width: 20%;
+    float: left;
+}
+.logout{
+    margin-top: 5px;
+    left: unset;
+    margin-left: 650px;
+    color: white;
+    padding: 21px;
+    font-family: 'Source Code Pro', monospace;
+    text-transform: uppercase;
+    background-color: #3aa0e8;
+    width: auto;
+    font-size: 1em;
+    height: 7%;
+    position: absolute;
+}
+.users-list{
+    margin-top: 5px;
+    left: unset;
+    margin-left: 500px;
+    color: white;
+    padding: 21px;
+    font-family: 'Source Code Pro', monospace;
+    text-transform: uppercase;
+    background-color: #3aa0e8;
+    width: auto;
+    font-size: 1em;
+    height: 7%;
+    position: absolute;
+}
+.navigation-bar{
+    margin-right: 55%;
+}
+h2{
+    display: table;
+    margin: auto;
+    margin-top: 15px;
+    float: left;
+    font-family: 'Source Code Pro', monospace;
+}
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap%27');

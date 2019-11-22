@@ -1,0 +1,26 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #beddf7;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #beddf7;
+}
+
+.edit-user-btn {
+    padding: 5px;
+}
+.delete-user-btn{
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    font-family: 'Fascinate Inline', cursive;
+    margin: 2%;
+}

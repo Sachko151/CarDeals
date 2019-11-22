@@ -1,0 +1,41 @@
+.body {
+    background-color: #ededed;
+}
+
+.container {
+    border: 5px solid #8AA3F4;
+    position: absolute;
+    width: 56%;
+    left: 25%;
+    top: 10%;
+    display: flex;
+    margin-top: 4%;
+}
+
+.container #car-img {
+    margin: 0;
+    width: 500px;
+    height: 500px;
+}
+
+.container .labels {
+    margin-left: 20px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 24px;
+    line-height: 1.6em;
+}
+
+.container .car-info {
+    margin-left: 20px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 24px;
+    line-height: 1.6em;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-family: 'Fascinate Inline', cursive;
+    text-align: center;
+    margin-top: 1%;
+}

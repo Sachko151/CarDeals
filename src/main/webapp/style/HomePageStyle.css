@@ -1,0 +1,112 @@
+#main {
+    border: 5px solid #1670a1;
+    left: 25%;
+    top: 20%;
+    background-color: #3aa0e8;
+    padding: 2%;
+    padding-left: 30%;
+}
+h1 {
+    position: relative;
+    left: 50%;
+    top: -2%;
+    font-size: 3.5em;
+    font-family: 'Fascinate Inline', cursive;
+    color: white;
+}
+.tiny-words{
+    position: relative;
+    left: 65%;
+    font-family: 'Fascinate Inline', cursive;
+    color: white;
+}
+input {
+    position: absolute;
+    margin: 4px;
+    left: 48%;
+    width: 29%;
+    height: 20px;
+}
+label {
+    font-size: 20px;
+    font-family: 'Permanent Marker', cursive;
+}
+#submit {
+    left: 38%;
+    height: 12%;
+    width: 20%;
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 2rem;
+    background: #1670a1;
+    color: white;
+    border-radius: 10%;
+    top: 105%;
+}
+#brandP {
+    left: 25%;
+    font-size: 1.5rem;
+}
+#EPriceP {
+    left: 25%;
+    font-size: 1.5rem;
+}
+#categoryP {
+    left: 25%;
+    font-size: 1.5rem;
+}
+#dateP {
+    left: 25%;
+    font-size: 1.5rem;
+}#powerP {
+     left: 25%;
+     font-size: 1.5rem;
+ }
+#eurostandardP {
+    left: 25%;
+    font-size: 1.5rem;
+}#mileageP {
+     left: 25%;
+     font-size: 1.5rem;
+ }
+#colorP {
+    left: 25%;
+    font-size: 1.5rem;
+}#modelP {
+     left: 25%;
+     font-size: 1.5rem;
+ }
+#regionP {
+    left: 25%;
+    font-size: 1.5rem;
+}#transmissionP {
+     left: 25%;
+     font-size: 1.5rem;
+ }
+#enigneP {
+    left: 25%;
+    font-size: 1.5rem;
+}
+.engine{
+    position: relative;
+    left: 18%;
+    width: 30%;
+    height: 20px;
+}
+.transmission{
+    position: relative;
+    left: 11%;
+    width: 30%;
+    height: 20px;
+}
+.car-image{
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+    width: auto;
+}
+.main-words{
+    position: absolute;
+    top: 43%;
+    background-color: rgba(15, 9, 9, 0.62);
+
+}
